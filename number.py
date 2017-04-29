@@ -1,2 +1,2 @@
-number = '0'
+number = '0 1'
 print (number)
