@@ -1,2 +1,2 @@
-alphabet = 'A'
-print (alphabet)s
+alphabet = 'A B'
+print (alphabet)
